@@ -132,10 +132,10 @@ stored.
 
 ## Other missing features
 Next to the aforementioned suggested improvements:
-    * Periodic full-load and versioning of the table
-    * Logging to a centralised logging solution such as Grafana, Datadog
-    * Airflow task to periodically check the Swagger documentation to see if anything changed for calling the API
-    * Rigorous testing
+* Periodic full-load and versioning of the table
+* Logging to a centralised logging solution such as Grafana, Datadog
+* Airflow task to periodically check the Swagger documentation to see if anything changed for calling the API
+* Rigorous testing
 
 ## Scalability
 Scalability by metric:
