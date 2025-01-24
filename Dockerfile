@@ -51,4 +51,4 @@ RUN pip install -e .
 EXPOSE 8000
 
 # Run the pipeline with improved logging
-CMD python dags/dag.py
+CMD python dags/local_dag.py

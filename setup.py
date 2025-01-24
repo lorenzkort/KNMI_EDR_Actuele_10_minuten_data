@@ -12,5 +12,6 @@ setup(
         "requests",
         "pyarrow",
         "tenacity",
+        "apache-airflow"
     ],
 ) 
