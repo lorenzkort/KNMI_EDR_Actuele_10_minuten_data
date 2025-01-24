@@ -128,6 +128,7 @@ stored.
 * API is getting called to list files
 * Retrieves most recent file
 * Files are converted to parquet and stored on the shared volume
+* Files get ingested into TimescaleDB
 
 ## Other missing features
 Next to the aforementioned suggested improvements:
