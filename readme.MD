@@ -68,7 +68,6 @@ is important.
 including a scraper; load step; ingest) including how it will be read, orchestrated and
 stored.
 * Provide instructions on how we can run your system on our laptops.
-* Testing of data in TimeScaleDB
 
 ## Reasoning of choices
 * For ingesting the Open API, I chose to use the templated code from KNMI. I chose it because it runs fast (asynchronous) and retrieves the last file. If I would spend more time on this, I would:
